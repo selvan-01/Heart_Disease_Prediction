@@ -1,65 +1,69 @@
-# ❤️ Heart Disease Prediction using Machine Learning (Naive Bayes)
+<p align="center">
+  <img src="thumbnail.png" width="800">
+</p>
 
-## 📌 Project Overview
+# ❤️ Heart Disease Prediction using Machine Learning
+
+## 📌 Overview
 This project predicts the likelihood of heart disease using Machine Learning.  
-The model is built using the **Naive Bayes Algorithm** and deployed using **Flask** as a web application.
+It uses the Naive Bayes algorithm and is deployed as a Flask web application.
 
 The goal is to assist in early detection of heart disease based on medical attributes.
 
 ---
 
 ## 🚀 Features
-- Predicts heart disease based on user input
-- Web-based interface using Flask
-- Trained using Naive Bayes classifier
-- Simple and user-friendly UI
-- Fast prediction response
+- Predicts heart disease based on user input  
+- Web-based interface using Flask  
+- Fast and accurate predictions  
+- User-friendly UI  
+- Real-time result display  
 
 ---
 
-## 🛠️ Tech Stack
-- Python
-- Machine Learning
-- Scikit-learn
-- Pandas
-- NumPy
-- Flask
-- HTML / CSS
+## 🛠 Tech Stack
+- Python  
+- Machine Learning  
+- Scikit-learn  
+- Pandas  
+- NumPy  
+- Flask  
+- HTML / CSS  
 
 ---
 
-## 📊 Dataset Information
-The dataset includes medical parameters such as:
-
-- Age
-- Sex
-- Chest Pain Type
-- Resting Blood Pressure
-- Cholesterol
-- Fasting Blood Sugar
-- Resting ECG
-- Maximum Heart Rate
-- Exercise Induced Angina
-- ST Depression
-- Slope
-- Number of Major Vessels
-- Thalassemia
+## 📊 Dataset
+The dataset includes key medical attributes:
+- Age, Sex  
+- Chest Pain Type  
+- Blood Pressure  
+- Cholesterol  
+- ECG Results  
+- Heart Rate  
+- Exercise Angina  
+- ST Depression  
+- Thalassemia  
 
 ---
 
-## 🧠 Machine Learning Model
-Algorithm Used:
-- **Naive Bayes Classifier**
+## 🧠 Model Used
+**Naive Bayes Classifier**
 
-Why Naive Bayes?
-- Simple and efficient
-- Works well with medical classification problems
-- Fast training and prediction time
+### Why Naive Bayes?
+- Simple and efficient  
+- Works well for classification problems  
+- Fast training and prediction  
 
 ---
 
-## 🌐 Web Application (Flask)
-The trained model is integrated into a Flask application where:
-- Users enter medical details
-- The system predicts whether heart disease is present or not
-- Output is displayed instantly
+## 🌐 Web Application
+- Users input medical details  
+- Model predicts heart disease risk  
+- Results displayed instantly  
+
+---
+
+## 🔗 Links
+- 💼 LinkedIn: https://www.linkedin.com/in/senthamil45  
+- 🌍 Portfolio: https://senthamill.vercel.app/  
+- 💻 GitHub: https://github.com/selvan-01/Heart_Disease_Prediction
